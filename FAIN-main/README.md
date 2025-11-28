@@ -56,6 +56,6 @@ La implementación de FAIN se basa en ventajas estratégicas clave frente a la m
 
 ## 👤 Autor
 
-Desarrollado por **[Tu Nombre/Usuario]**.
+Desarrollado por **Alberto Andres, Gonzalo Martin, Gonzalo Albelda y Jose Luis Galán**.
 
 ---
